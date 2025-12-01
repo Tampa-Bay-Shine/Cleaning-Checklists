@@ -1,8 +1,8 @@
 # Tampa Bay Shine – Cleaning Checklists
 
-This repository includes a collection of professional cleaning checklists used by Tampa Bay Shine.
+This repository includes a collection of professional cleaning checklists created and maintained by Tampa Bay Shine. These are the same checklists used by our team for residential, commercial, and specialty cleanings across the Tampa Bay region.
 
-These checklists help:
+These checklists are helpful for:
 - Homeowners  
 - Renters  
 - Realtors  
@@ -23,6 +23,10 @@ Feel free to download, print, or adapt for personal use.
 ---
 
 ## About Tampa Bay Shine
-We provide residential, commercial, and specialty cleaning services throughout the Tampa Bay region.
+Tampa Bay Shine provides professional home and office cleaning throughout Tampa, Riverview, Brandon, Wesley Chapel, Apollo Beach, and the surrounding areas.
 
-Learn more: https://tampabayshine.com
+Learn more about our services at:  
+👉 https://tampabayshine.com
+
+For booking or inquiries, visit:  
+👉 https://tampabayshine.com/contact-us
