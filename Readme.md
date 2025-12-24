@@ -2,11 +2,11 @@
 
 This repository contains **professional cleaning checklists** created and maintained by Tampa Bay Shine. These are the same checklist frameworks our team uses for residential, commercial, Airbnb, and specialty cleanings across Tampa Bay.
 
-Use these if you’re a:
-- Homeowner or renter
-- Realtor
-- Airbnb host / property manager
-- Office manager
+These checklists are useful for:
+- Homeowners and renters
+- Realtors
+- Airbnb hosts and property managers
+- Office managers
 
 You are welcome to download, print, and adapt these for personal use.
 
@@ -18,12 +18,12 @@ You are welcome to download, print, and adapt these for personal use.
 
 ## Included checklists
 
-- `house-cleaning-checklist.md`
-- `move-out-cleaning-checklist.md`
-- `office-cleaning-checklist.md`
-- `airbnb-turnover-checklist.md`
+- [House Cleaning Checklist](./house-cleaning-checklist.md)
+- [Move-Out Cleaning Checklist](./move-out-cleaning-checklist.md)
+- [Office Cleaning Checklist](./office-cleaning-checklist.md)
+- [Airbnb Turnover Checklist](./airbnb-turnover-checklist.md)
 
-Tip: If you want these as print-ready PDFs, open the file and use your browser’s **Print → Save as PDF**.
+Tip: For print-ready copies, open a checklist and use **Print → Save as PDF**.
 
 ---
 
